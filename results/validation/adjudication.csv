@@ -1,0 +1,23 @@
+﻿unit_id,language,text,rule_label,rule_word,anthropic,openai,gemini,majority,row_count,human_label,reason,adjudicated_by,date
+6d7b02b4c0cc7f48,en,The one wearing purple pants,omitted,,none_one,none_one,none_one,none_one,2,none_one,The one으로 사람 지칭,author,2026-08-29
+c2fa433626a82b9c,en,The one wearing the purple coat,omitted,,none_one,none_one,none_one,none_one,2,none_one,The one,author,2026-08-29
+232a14519d6ad3e8,en,The one wearing green jeans,omitted,,none_one,none_one,none_one,none_one,1,none_one,The one,author,2026-08-29
+c875b23f080a748b,en,The one wearing gold-colored pants,omitted,,none_one,none_one,none_one,none_one,1,none_one,The one,author,2026-08-29
+1aacd58139df24cd,en,The one wearing green pants,omitted,,none_one,none_one,none_one,none_one,1,none_one,The one,author,2026-08-29
+ab26e3500a37593d,en,The one wearing red pants,omitted,,none_one,none_one,none_one,none_one,1,none_one,The one,author,2026-08-29
+aaf57cb0105a5266,en,The one wearing yellow pants,omitted,,none_one,none_one,none_one,none_one,1,none_one,The one,author,2026-08-29
+296884869b1909a0,en,The one wearing orange pants,omitted,,none_one,none_one,none_one,none_one,1,none_one,The one,author,2026-08-29
+bb6d3e477b79761c,en,The one wearing yellow jeans,omitted,,none_one,none_one,none_one,none_one,1,none_one,The one,author,2026-08-29
+97dc3742b25b430e,en,The one wearing the khaki sweater,omitted,,none_one,none_one,none_one,none_one,1,none_one,The one,author,2026-08-29
+3bc269236962c6f9,en,The one wearing the gold coat,omitted,,none_one,none_one,none_one,none_one,1,none_one,The one,author,2026-08-29
+851ce15577e2faf5,en,The one wearing the green coat,omitted,,none_one,none_one,none_one,none_one,1,none_one,The one,author,2026-08-29
+d81c01c894c4b5b3,en,The one wearing the red coat,omitted,,none_one,none_one,none_one,none_one,1,none_one,The one,author,2026-08-29
+90d721e26db93543,en,The one wearing the yellow coat,omitted,,none_one,none_one,none_one,none_one,1,none_one,The one,author,2026-08-29
+8f869b8ff7e84759,en,The one wearing the orange coat,omitted,,none_one,none_one,none_one,none_one,1,none_one,The one,author,2026-08-29
+ac8c09de744790f7,kr,보라색 코트를 입은 아이가 사진 촬영에 참여하고 있습니다,omitted,,none_one,none_one,neutral,none_one,1,neutral,아이라는 명시적 성중립 인물 명사,author,2026-08-29
+0425bfca608344d2,zh,穿着卡其色毛衣的那个,omitted,,omitted,none_one,none_one,none_one,1,none_one,那个 = 그 사람/that one 역할,author,2026-08-29
+b14116ece6b8692e,zh,穿绿色外套的那个,omitted,,omitted,none_one,none_one,none_one,1,none_one,那个,author,2026-08-29
+2cacb4472c4f3790,zh,穿着红色外套的那个,omitted,,omitted,none_one,none_one,none_one,1,none_one,那个,author,2026-08-29
+77caa65de492df8b,zh,穿着黄色外套的那个,omitted,,omitted,none_one,none_one,none_one,1,none_one,那个,author,2026-08-29
+cfb77ce3c68b380c,zh,穿着橙色外套的那个,omitted,,omitted,none_one,none_one,none_one,1,none_one,那个,author,2026-08-29
+32e0503d4e19f724,zh,穿紫色外套的那个,omitted,,omitted,none_one,none_one,none_one,1,none_one,那个,author,2026-08-29

@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper (preferred-citation)."
+title: "Code and data for: Target-Language Effects on Gender Bias in Machine Translation"
+authors:
+  - family-names: Kim
+    given-names: Seung Yeon
+    orcid: "https://orcid.org/0009-0001-8079-2516"
+    affiliation: Chungnam National University
+  - family-names: Lee
+    given-names: Kong Joo
+    orcid: "https://orcid.org/0000-0003-0025-4230"
+    affiliation: Chungnam National University
+repository-code: "https://github.com/Kimseonu0919/target-language-gender-bias-mt"
+license:
+  - MIT
+  - CC-BY-4.0
+date-released: 2026-09-23
+preferred-citation:
+  type: article
+  title: "Target-Language Effects on Gender Bias in Machine Translation: A Cross-Lingual Study of Gender-Neutral Source Languages"
+  authors:
+    - family-names: Kim
+      given-names: Seung Yeon
+      orcid: "https://orcid.org/0009-0001-8079-2516"
+    - family-names: Lee
+      given-names: Kong Joo
+      orcid: "https://orcid.org/0000-0003-0025-4230"
+  journal: The Transactions of the Korea Information Processing Society
+  year: 2026
+  status: in-press

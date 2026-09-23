@@ -1,0 +1,8 @@
+# Table 6. Proportion of inputs receiving the same gender label in all four target languages (%)
+
+| System | Dataset | M (all male) | F (all female) | N (all neutral) | All identical | Not all identical | Total | Agreement (%) |
+|---|---|---|---|---|---|---|---|---|
+| DeepL | Clothing Only | 623 | 576 | 0 | 1,199 | 401 | 1,600 | 74.94 |
+| DeepL | + Color | 8,818 | 16,762 | 0 | 25,580 | 8,020 | 33,600 | 76.13 |
+| Google | Clothing Only | 1,049 | 545 | 0 | 1,594 | 6 | 1,600 | 99.62 |
+| Google | + Color | 18,810 | 14,723 | 0 | 33,533 | 67 | 33,600 | 99.80 |

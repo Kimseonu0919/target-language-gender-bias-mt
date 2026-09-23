@@ -1,0 +1,6402 @@
+[
+    {
+        "sentence": "一男一女正在散步。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在交谈。她穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在交谈。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在交谈。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在交谈。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在交谈。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在交谈。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在交谈。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在交谈。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在交谈。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在交谈。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在交谈。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在交谈。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在交谈。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在交谈。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在交谈。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在交谈。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看书。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看书。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看书。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看书。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看书。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看书。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看书。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看书。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看书。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看书。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看书。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看书。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看书。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看书。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看书。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看书。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在做运动。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在做运动。他穿着夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在做运动。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在做运动。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在做运动。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在做运动。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在做运动。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在做运动。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在做运动。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在做运动。她穿着上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在做运动。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在做运动。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在做运动。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在做运动。她穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在做运动。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在做运动。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在玩游戏。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在玩游戏。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在玩游戏。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在玩游戏。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在玩游戏。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在玩游戏。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在玩游戏。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在玩游戏。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在玩游戏。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在玩游戏。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在玩游戏。他穿着裤子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在玩游戏。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在玩游戏。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在玩游戏。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在玩游戏。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在玩游戏。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。他穿着衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。她穿着上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在喝水。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在喝水。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在喝水。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在喝水。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在喝水。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在喝水。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在喝水。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在喝水。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在喝水。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在喝水。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在喝水。他穿着裤子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在喝水。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在喝水。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在喝水。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在喝水。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在喝水。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在跳舞。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在跳舞。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在跳舞。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在跳舞。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在跳舞。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在跳舞。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在跳舞。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在跳舞。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在跳舞。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在跳舞。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在跳舞。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在跳舞。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在跳舞。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在跳舞。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在跳舞。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在跳舞。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在拍照。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在拍照。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在拍照。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在拍照。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在拍照。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在拍照。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在拍照。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在拍照。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在拍照。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在拍照。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在拍照。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在拍照。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在拍照。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在拍照。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在拍照。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在拍照。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在唱歌。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在唱歌。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在唱歌。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在唱歌。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在唱歌。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在唱歌。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在唱歌。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在唱歌。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在唱歌。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在唱歌。她穿着上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在唱歌。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在唱歌。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在唱歌。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在唱歌。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在唱歌。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在唱歌。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画一幅画。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画一幅画。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画一幅画。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画画。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画画。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画一幅画。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画画。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画一幅画。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画一幅画。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画一幅画。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画一幅画。他穿着裤子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画一幅画。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画画。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画画。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画一幅画。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画一幅画。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在骑自行车。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在骑自行车。他穿着夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在骑自行车。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在骑自行车。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在骑自行车。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在骑自行车。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在骑自行车。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在骑自行车。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在骑自行车。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在骑自行车。她穿着上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在骑自行车。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在骑自行车。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在骑自行车。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在骑自行车。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在骑自行车。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在骑自行车。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在仰望天空。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在仰望天空。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在仰望天空。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在仰望天空。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在仰望天空。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在仰望天空。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在仰望天空。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在仰望天空。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在仰望天空。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在仰望天空。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在仰望天空。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在仰望天空。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在仰望天空。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在仰望天空。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在仰望天空。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在仰望天空。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在听音乐。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在听音乐。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在听音乐。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在听音乐。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在听音乐。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在听音乐。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在听音乐。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在听音乐。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在听音乐。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在听音乐。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在听音乐。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在听音乐。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在听音乐。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在听音乐。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在听音乐。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在听音乐。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在演奏乐器。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在演奏乐器。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在演奏乐器。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在演奏乐器。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在演奏乐器。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在演奏乐器。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在演奏乐器。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在演奏乐器。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在演奏乐器。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在演奏乐器。她穿着上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在演奏乐器。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在演奏乐器。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在演奏乐器。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在演奏乐器。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在演奏乐器。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在演奏乐器。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正望着窗外。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正望着窗外。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正望着窗外。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正望着窗外。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正望着窗外。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正望着窗外。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正望着窗外。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正望着窗外。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正望着窗外。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正望着窗外。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正望着窗外。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正望着窗外。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正望着窗外。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正望着窗外。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看窗外。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正望着窗外。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在打电话。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在打电话。他穿着夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在打电话。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在打电话。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在打电话。他穿着衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在打电话。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在通电话。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在打电话。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在通电话。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在打电话。她穿着上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在打电话。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在打电话。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在打电话。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在打电话。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在打电话。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在打电话。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在等电梯。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在等电梯。他穿着夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在等电梯。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在等电梯。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在等电梯。他穿着衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在等电梯。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在等电梯。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在等电梯。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在等电梯。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在等电梯。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在等电梯。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在等电梯。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在等电梯。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在等电梯。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在等电梯。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在等电梯。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女上了一辆公共汽车。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在上车。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在上车。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女上了一辆公共汽车。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在上车。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在上车。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在上车。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在上车。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在上车。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女上了一辆公共汽车。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在上车。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在上车。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在上车。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女上了一辆公交车。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在上车。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在上车。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女坐在公园的长椅上。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女坐在公园的长椅上。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女坐在公园的长椅上。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女坐在公园的长椅上。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女坐在公园的长椅上。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女坐在公园的长椅上。他穿着一件大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女坐在公园的长椅上。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女坐在公园的长椅上。他穿着一件大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女坐在公园的长椅上。她穿着一条裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女坐在公园的长椅上。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女坐在公园的长椅上。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女坐在公园的长椅上。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女坐在公园的长椅上。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女坐在公园的长椅上。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女坐在公园的长椅上。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女坐在公园的长椅上。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在聊天。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在聊天。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在交谈。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在聊天。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在聊天。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在聊天。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在聊天。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在聊天。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在聊天。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在聊天。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在聊天。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在聊天。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在聊天。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在聊天。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在聊天。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在交谈。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在吃午饭。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在吃晚饭。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在吃饭。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在吃午饭。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在吃饭。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在吃晚饭。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在吃饭。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在吃午饭。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在吃饭。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在吃饭。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在吃午饭。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在吃饭。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在吃午饭。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在吃午饭。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在吃饭。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在吃饭。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看书。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看书。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看书。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看书。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看书。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看书。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看书。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看书。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看书。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看书。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看书。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看书。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看书。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看书。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看书。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看书。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在运动。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在运动。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在运动。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在运动。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在运动。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在运动。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在做运动。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在运动。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在运动。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在运动。她穿着上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在运动。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在运动。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在运动。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在运动。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在运动。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在运动。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在玩游戏。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在玩游戏。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在玩耍。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在玩游戏。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在玩游戏。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在玩游戏。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在玩耍。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在玩游戏。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在玩游戏。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在玩游戏。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在玩游戏。他穿着裤子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在玩游戏。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在玩游戏。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在玩游戏。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在玩游戏。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在玩游戏。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在学习。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在学习。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在学习。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在学习。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在学习。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在学习。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在学习。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在学习。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在学习。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在学习。她穿着上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在学习。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在学习。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在学习。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在学习。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在学习。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在学习。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩出去散步。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在散步。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在喝水。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在喝水。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在喝水。他穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在喝水。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在喝水。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在喝水。他穿着外套。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在喝水。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在喝水。他穿着外套。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在喝水。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在喝水。她穿着上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在喝水。他穿着裤子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在喝水。他穿着毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在喝水。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在喝水。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在喝水。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在喝水。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在休息。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在休息。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在休息。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在休息。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在休息。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在休息。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在休息。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在休息。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在休息。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在休息。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在休息。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在休息。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在休息。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在休息。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在休息。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在休息。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在跳舞。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在跳舞。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在跳舞。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在跳舞。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在跳舞。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在跳舞。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在跳舞。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在跳舞。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在跳舞。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在跳舞。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在跳舞。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在跳舞。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在跳舞。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在跳舞。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在跳舞。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在跳舞。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在看电影。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在看电影。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在看电影。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在看电影。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在看电影。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在看电影。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在看电影。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在看电影。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在看电影。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在看电影。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在看电影。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在看电影。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在看电影。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在看电影。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在看电影。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在看电影。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在拍照。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在拍照。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在拍照。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在拍照。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在拍照。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在拍照。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在拍照。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在拍照。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在拍照。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在拍照。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在拍照。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在拍照。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在拍照。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在拍照。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在拍照。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在拍照。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在唱歌。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在唱歌。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在唱歌。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在唱歌。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在唱歌。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在唱歌。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在唱歌。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在唱歌。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在唱歌。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在唱歌。她穿着上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在唱歌。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在唱歌。他穿着毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在唱歌。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在唱歌。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在唱歌。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在唱歌。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在画画。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在画画。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在画画。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在画画。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在画画。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在画画。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在画画。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在画画。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在画画。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在画画。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在画画。他穿着裤子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在画画。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在画画。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在画画。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在画画。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在画画。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在骑自行车。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在骑自行车。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在骑自行车。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在骑自行车。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在骑自行车。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在骑自行车。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在骑自行车。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在骑自行车。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在骑自行车。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在骑自行车。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在骑自行车。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在骑自行车。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在骑自行车。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在骑自行车。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在骑自行车。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在骑自行车。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看天空。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看天空。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看天空。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看天空。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看天空。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看天空。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看天空。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看天空。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看天空。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看天空。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看天空。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看天空。他穿着毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看天空。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看天空。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看天空。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看天空。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在听音乐。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在听音乐。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在听音乐。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在听音乐。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在听音乐。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在听音乐。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在听音乐。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在听音乐。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在听音乐。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在听音乐。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在听音乐。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在听音乐。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在听音乐。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在听音乐。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在听音乐。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在听音乐。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩演奏乐器。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在演奏乐器。他穿着夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在演奏乐器。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在演奏乐器。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在演奏乐器。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在演奏乐器。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在演奏乐器。他穿着羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在演奏乐器。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在演奏乐器。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在演奏乐器。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩演奏乐器。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在演奏乐器。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在演奏乐器。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在演奏乐器。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在演奏乐器。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在演奏乐器。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正看着窗户。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正看着窗户。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在看窗户。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正看着窗户。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正看着窗户。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正看着窗户。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正看着窗户。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正看着窗户。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正看着窗户。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在看窗户。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在看窗户。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在看窗户。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在看窗户。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正看着窗户。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在看窗户。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正看着窗户。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看电视。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看电视。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看电视。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看电视。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看电视。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看电视。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看电视。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看电视。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看电视。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看电视。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看电视。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看电视。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看电视。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看电视。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看电视。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在看电视。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在打电话。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在打电话。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在打电话。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在打电话。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在打电话。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在打电话。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在打电话。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在打电话。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在打电话。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在打电话。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在打电话。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在打电话。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在打电话。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在打电话。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在打电话。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在打电话。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在等电梯。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在等电梯。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在等电梯。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在等电梯。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在等电梯。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在等电梯。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在等电梯。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在等电梯。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在等电梯。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在等电梯。她穿着上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在等电梯。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在等电梯。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在等电梯。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在等电梯。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在等电梯。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩在等电梯。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩上了一辆公共汽车。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩上了一辆公共汽车。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩上了一辆公共汽车。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩上了一辆公共汽车。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩上了一辆公共汽车。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩上了一辆公共汽车。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩正在上一辆公共汽车。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩上了一辆公共汽车。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩上了一辆公共汽车。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩上了一辆公共汽车。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩上了一辆公共汽车。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩要上一辆公共汽车。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩上了一辆公共汽车。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩上了一辆公共汽车。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩上了一辆公共汽车。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩上了一辆公共汽车。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩坐在公园里。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩坐在公园里。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩坐在公园里。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩坐在公园里。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩坐在公园里。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩坐在公园里。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩坐在公园里。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩坐在公园里。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩坐在公园里。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩坐在公园里。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩坐在公园里。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩坐在公园里。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩坐在公园里。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩坐在公园里。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩坐在公园里。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个男孩和一个女孩坐在公园里。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在散步。她穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在散步。她穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在散步。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在散步。她穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在散步。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在散步。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在散步。她穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在散步。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在散步。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在散步。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在散步。她穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在散步。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在散步。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在散步。她穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在散步。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在散步。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在交谈。她穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在交谈。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在交谈。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在交谈。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在交谈。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在交谈。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在交谈。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在交谈。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在交谈。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在交谈。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在交谈。她穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在交谈。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在交谈。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人正在交谈。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在交谈。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在交谈。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在吃午饭。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在共进晚餐。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在看书。她穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在看书。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在看书。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在看书。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在看书。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在看书。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在看书。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在看书。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在看书。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在看书。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在看书。她穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在看书。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在看书。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在看书。她穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在看书。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在看书。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在做运动。她穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在做运动。他穿着夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在做运动。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在做运动。她穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在做运动。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在做运动。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在做运动。她穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在做运动。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在做运动。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在做运动。她穿着上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在做运动。她穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在做运动。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在做运动。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在做运动。她穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在做运动。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在做运动。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在玩游戏。她穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在玩游戏。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在玩游戏。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在玩游戏。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在玩游戏。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在玩游戏。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在玩游戏。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在玩游戏。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在玩游戏。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在玩游戏。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在玩游戏。她穿着裤子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在玩游戏。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在玩游戏。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在玩游戏。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在玩游戏。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在玩游戏。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。她穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。他穿着衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在学习。她穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。她穿着上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。她穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。她穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在学习。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在散步。她穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。她穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在散步。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。她穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。她穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在散步。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在散步。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在喝水。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在喝水。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在喝水。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在喝水。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在喝水。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在喝水。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在喝水。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在喝水。她穿着一件外套。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在喝水。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在喝水。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在喝水。他穿着裤子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在喝水。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在喝水。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在喝水。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在喝水。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在喝水。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。她穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。她穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在休息。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。她穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。她穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在休息。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在休息。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在跳舞。她穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在跳舞。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在跳舞。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在跳舞。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在跳舞。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在跳舞。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在跳舞。她穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在跳舞。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在跳舞。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在跳舞。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在跳舞。她穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在跳舞。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在跳舞。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在跳舞。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在跳舞。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在跳舞。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。她穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。她穿着一件大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。她穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。她穿着一件大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。她穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在看电影。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电影。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在拍照。她穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在拍照。她穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在拍照。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在拍照。她穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在拍照。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在拍照。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在拍照。她穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在拍照。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在拍照。她穿着一条裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在拍照。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在拍照。她穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在拍照。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在拍照。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人正在拍照。她穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在拍照。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在拍照。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在唱歌。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在唱歌。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在唱歌。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在唱歌。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在唱歌。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在唱歌。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在唱歌。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在唱歌。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在唱歌。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在唱歌。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在唱歌。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在唱歌。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在唱歌。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在唱歌。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在唱歌。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在唱歌。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画一幅画。她穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画一幅画。她穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画画。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画画。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画画。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画一幅画。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画一幅画。她穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画一幅画。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画一幅画。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画一幅画。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画一幅画。她穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画一幅画。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画画。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画画。她穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画一幅画。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在画一幅画。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在骑自行车。她穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在骑自行车。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在骑自行车。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在骑自行车。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在骑自行车。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在骑自行车。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在骑自行车。她穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在骑自行车。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在骑自行车。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在骑自行车。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在骑自行车。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在骑自行车。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在骑自行车。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在骑自行车。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在骑自行车。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在骑自行车。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在看天空。她穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在看天空。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在仰望天空。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人正在仰望天空。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在看天空。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在看天空。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在仰望天空。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在看天空。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在看天空。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在看天空。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在看天空。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在看天空。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在看天空。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人正在望着天空。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在看天空。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人正在仰望天空。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在听音乐。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在听音乐。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在听音乐。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在听音乐。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在听音乐。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在听音乐。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在听音乐。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在听音乐。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在听音乐。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在听音乐。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在听音乐。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在听音乐。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在听音乐。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在听音乐。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在听音乐。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在听音乐。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在演奏乐器。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在演奏乐器。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在演奏乐器。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在演奏乐器。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在演奏乐器。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在演奏乐器。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在演奏乐器。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在演奏乐器。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在演奏乐器。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在演奏乐器。她穿着上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在演奏乐器。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在演奏乐器。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女在演奏乐器。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在演奏乐器。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在演奏乐器。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在演奏乐器。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人正望着窗外。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人正望着窗外。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正望着窗外。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人正望着窗外。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人正望着窗外。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人正望着窗外。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人正在看窗外。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人正望着窗外。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人正在看窗外。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人正望着窗外。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人正望着窗外。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人正望着窗外。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人正望着窗外。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人正望着窗外。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人正望着窗外。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人正望着窗外。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。她穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。她穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。她穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在看电视。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在通电话。她穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在通电话。她穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在通电话。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在打电话。她穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在通电话。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在打电话。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在通电话。她穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在打电话。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在通电话。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在通电话。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在通电话。她穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在通电话。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在打电话。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在打电话。她穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在打电话。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在通电话。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在等电梯。她穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在等电梯。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在等电梯。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在等电梯。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在等电梯。他穿着衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在等电梯。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在等电梯。她穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在等电梯。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在等电梯。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在等电梯。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在等电梯。她穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在等电梯。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在等电梯。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在等电梯。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在等电梯。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人在等电梯。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女上了一辆公共汽车。她穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在上车。她穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在上车。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在上一辆公共汽车。她穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在上车。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在上车。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在上一辆公共汽车。她穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在上车。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在上一辆公共汽车。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女上了一辆公共汽车。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女上了一辆公共汽车。她穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在上一辆公共汽车。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在上车。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女上了一辆公共汽车。她穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士正在上车。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一男一女正在上车。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人坐在公园的长椅上。她穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人坐在公园的长椅上。她穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一位女士和一位男士坐在公园的长椅上。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人坐在公园的长椅上。她穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人坐在公园的长椅上。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人坐在公园的长椅上。她穿着一件大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人坐在公园的长椅上。她穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人坐在公园的长椅上。她穿着一件大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人坐在公园的长椅上。她穿着一条裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人坐在公园的长椅上。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人坐在公园的长椅上。她穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人坐在公园的长椅上。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人坐在公园的长椅上。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人坐在公园的长椅上。她穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人坐在公园的长椅上。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女人和一个男人坐在公园的长椅上。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在聊天。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在聊天。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在聊天。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在聊天。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在聊天。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在说话。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在聊天。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在说话。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在聊天。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在聊天。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在聊天。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在聊天。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在聊天。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在聊天。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在聊天。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在聊天。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在吃午饭。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在吃晚饭。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在吃饭。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在吃午饭。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在吃饭。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在吃晚饭。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在吃晚饭。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在吃午饭。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在吃饭。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在吃饭。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在吃午饭。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在吃晚饭。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在吃午饭。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在吃午饭。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在吃午饭。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在吃饭。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看书。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看书。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看书。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看书。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看书。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看书。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看书。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看书。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看书。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看书。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看书。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看书。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看书。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看书。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看书。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看书。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在运动。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在运动。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在做运动。他穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在运动。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在做运动。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在运动。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在做运动。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在运动。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在运动。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在运动。她穿着上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在运动。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在做运动。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在运动。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在运动。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在做运动。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在运动。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在玩游戏。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在玩游戏。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在玩耍。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在玩游戏。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在玩游戏。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在玩游戏。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在玩耍。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在玩游戏。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在玩游戏。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在玩游戏。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在玩游戏。他穿着裤子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在玩游戏。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在玩游戏。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在玩游戏。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在玩游戏。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在玩游戏。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在学习。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在学习。他穿着夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在学习。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在学习。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在学习。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在学习。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在学习。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在学习。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在学习。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在学习。她穿着上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在学习。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在学习。他穿着毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在学习。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在学习。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在学习。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在学习。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩出去散步。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩外出散步。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在散步。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在喝水。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在喝水。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在喝水。他穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在喝水。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在喝水。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在喝水。他穿着外套。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在喝水。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在喝水。他穿着外套。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在喝水。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在喝水。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在喝水。他穿着裤子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在喝水。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在喝水。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在喝水。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在喝水。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在喝水。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在休息。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在休息。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在休息。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在休息。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在休息。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在休息。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在休息。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在休息。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在休息。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在休息。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在休息。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在休息。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在休息。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在休息。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在休息。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在休息。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在跳舞。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在跳舞。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在跳舞。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在跳舞。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在跳舞。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在跳舞。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在跳舞。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在跳舞。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在跳舞。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在跳舞。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在跳舞。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在跳舞。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在跳舞。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在跳舞。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在跳舞。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在跳舞。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看电影。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看电影。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看电影。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看电影。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看电影。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看电影。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看电影。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看电影。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看电影。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看电影。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看电影。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看电影。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看电影。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看电影。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看电影。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看电影。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在拍照。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在拍照。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在拍照。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在拍照。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在拍照。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在拍照。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在拍照。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在拍照。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在拍照。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在拍照。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在拍照。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在拍照。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在拍照。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在拍照。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在拍照。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在拍照。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在唱歌。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在唱歌。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在唱歌。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在唱歌。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在唱歌。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在唱歌。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在唱歌。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在唱歌。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在唱歌。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在唱歌。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在唱歌。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在唱歌。他穿着毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在唱歌。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在唱歌。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在唱歌。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在唱歌。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在画画。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在画画。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在画画。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在画画。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在画画。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在画画。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在画画。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在画画。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在画画。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在画画。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在画画。他穿着裤子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在画画。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在画画。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在画画。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在画画。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在画画。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在骑自行车。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在骑自行车。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在骑自行车。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在骑自行车。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在骑自行车。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在骑自行车。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在骑自行车。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在骑自行车。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在骑自行车。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在骑自行车。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在骑自行车。他穿着裤子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在骑自行车。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在骑自行车。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在骑自行车。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在骑自行车。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在骑自行车。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看天空。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看天空。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看天空。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看天空。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看天空。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看天空。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看天空。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看天空。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看天空。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看天空。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看天空。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看天空。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看天空。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看天空。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看天空。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看天空。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在听音乐。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在听音乐。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在听音乐。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在听音乐。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在听音乐。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在听音乐。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在听音乐。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在听音乐。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在听音乐。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在听音乐。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在听音乐。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在听音乐。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在听音乐。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在听音乐。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在听音乐。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在听音乐。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩演奏乐器。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在演奏乐器。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在演奏乐器。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在演奏乐器。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在演奏乐器。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在演奏乐器。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在演奏乐器。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在演奏乐器。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在演奏乐器。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在演奏乐器。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在演奏乐器。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在演奏乐器。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在演奏乐器。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在演奏乐器。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在演奏乐器。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在演奏乐器。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看窗户。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正看着窗户。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看窗户。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正看着窗户。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正看着窗户。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看窗户。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看窗户。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看窗户。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正看着窗户。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看窗户。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看窗户。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看窗户。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在看窗户。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正看着窗户。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正看着窗户。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正看着窗户。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看电视。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看电视。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看电视。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看电视。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看电视。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看电视。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看电视。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看电视。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看电视。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看电视。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看电视。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看电视。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看电视。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看电视。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看电视。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在看电视。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在打电话。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在打电话。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在打电话。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在打电话。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在打电话。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在打电话。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在打电话。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在打电话。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在打电话。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在打电话。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在打电话。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在打电话。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在打电话。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在打电话。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在打电话。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在打电话。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在等电梯。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在等电梯。他穿着夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在等电梯。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在等电梯。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在等电梯。他穿着衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在等电梯。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在等电梯。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在等电梯。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在等电梯。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在等电梯。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在等电梯。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在等电梯。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在等电梯。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在等电梯。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在等电梯。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩在等电梯。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩上了一辆公共汽车。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在上车。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩上了一辆公共汽车。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩上了一辆公共汽车。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在上车。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在上车。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在上车。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在上车。她穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩上了一辆公共汽车。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩上了一辆公共汽车。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩上了一辆公共汽车。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩要上一辆公共汽车。他穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在上车。她穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩上了一辆公共汽车。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩上了一辆公共汽车。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩正在上车。他穿着西装。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩坐在公园里。他穿着牛仔裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩坐在公园里。他穿着一件夹克。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩坐在公园里。她穿着针织衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩坐在公园里。他穿着一件 T 恤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩坐在公园里。他穿着一件衬衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩坐在公园里。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩坐在公园里。他穿着一件羊毛衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩坐在公园里。他穿着大衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩坐在公园里。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩坐在公园里。她穿着一件上衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩坐在公园里。他穿着长裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩坐在公园里。她穿着一件毛衣。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩坐在公园里。他穿着短裤。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩坐在公园里。他穿着连帽衫。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩坐在公园里。她穿着裙子。",
+        "language": "zh"
+    },
+    {
+        "sentence": "一个女孩和一个男孩坐在公园里。他穿着西装。",
+        "language": "zh"
+    }
+]

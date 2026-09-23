@@ -1,0 +1,27 @@
+# Table 4. Average NGB and JSD per color over 16 clothing items and 8 (system x language) combinations, sorted by NGB
+
+| Color | NGB | JSD |
+|---|---|---|
+| pink | +0.710 | 0.2289 |
+| purple | +0.161 | 0.0671 |
+| mint | +0.104 | 0.0554 |
+| plum | +0.093 | 0.0558 |
+| light blue | +0.092 | 0.0568 |
+| beige | +0.076 | 0.0520 |
+| ivory | +0.052 | 0.0538 |
+| gold | +0.034 | 0.0450 |
+| red | +0.024 | 0.0441 |
+| orange | -0.005 | 0.0345 |
+| brown | -0.033 | 0.0435 |
+| light gray | -0.043 | 0.0323 |
+| yellow | -0.068 | 0.0311 |
+| olive | -0.069 | 0.0454 |
+| white | -0.118 | 0.0276 |
+| green | -0.123 | 0.0283 |
+| black | -0.123 | 0.0338 |
+| blue | -0.124 | 0.0311 |
+| navy | -0.160 | 0.0279 |
+| burgundy | -0.161 | 0.0273 |
+| gray | -0.239 | 0.0229 |
+
+NGB is computed under the Clothing + Color condition. JSD compares each clothing-color distribution with the corresponding Clothing Only distribution.

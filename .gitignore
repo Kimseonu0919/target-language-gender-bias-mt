@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+data/generated/
+results/validation/raw_paper/

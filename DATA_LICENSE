@@ -1,0 +1,24 @@
+Data license
+
+The translations, results and figures in this repository (translations/,
+results/, figs/) are released under the Creative Commons Attribution 4.0
+International license (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+Copyright (c) 2026 Seung Yeon Kim and Kong Joo Lee
+
+Attribution: cite the paper listed under "Citation" in README.md.
+
+The stimulus workbook data/fashion_data.xlsx is reproduced from the earlier
+study of the same group, Y.-H. Park, M.-S. Cho, and K. J. Lee, "Exploring
+Gender Bias in Fashion Descriptions in Machine Translation to Korean," The
+Transactions of the Korea Information Processing Society, Vol.15, No.2,
+pp.102-112, 2026, https://doi.org/10.3745/TKIPS.2026.15.2.102. Its copyright
+remains with its authors, and it is redistributed here so that the study can
+be reproduced; cite that work when you reuse the stimuli.
+
+The translations were produced with the DeepL API and the Google Cloud
+Translation API (v2), and the files under results/validation/raw/ contain
+classification responses of Claude Haiku 4.5, GPT-5 mini and Gemini 3.7
+Flash. The authors license these outputs to the extent they hold rights in
+them; their use may also be subject to the respective providers' terms.

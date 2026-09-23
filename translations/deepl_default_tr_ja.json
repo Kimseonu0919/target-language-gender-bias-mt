@@ -1,0 +1,6402 @@
+[
+    {
+        "sentence": "男と女が歩いている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。シャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼女はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が話している。彼女はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が話している。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が話している。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が話している。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が話している。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が話している。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が話している。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が話している。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が話している。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が話している。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が話している。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が話している。彼女はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が話している。彼女はショートパンツをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が話している。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が話している。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が話している。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼女はショートパンツをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "ある男性と女性が食事をしている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が本を読んでいる。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が本を読んでいる。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が本を読んでいる。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が本を読んでいる。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が本を読んでいる。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が本を読んでいる。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が本を読んでいる。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が本を読んでいる。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が本を読んでいる。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が本を読んでいる。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が本を読んでいる。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が本を読んでいる。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が本を読んでいる。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が本を読んでいる。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が本を読んでいる。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が本を読んでいる。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がスポーツをしている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がスポーツをしている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "スポーツをする男女。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "スポーツをしている男女。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がスポーツをしている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がスポーツをしている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "スポーツをしている男女。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がスポーツをしている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がスポーツをしている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "スポーツをしている男女。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がスポーツをしている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がスポーツをしている。彼はジャンパーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がスポーツをしている。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "スポーツをしている男女。彼女はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がスポーツをしている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がスポーツをしている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "勉強中の男女。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男女が勉強している。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男女が勉強している。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。シャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が水を飲んでいる。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が水を飲んでいる。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が水を飲んでいる。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が水を飲んでいる。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が水を飲んでいる。シャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が水を飲んでいる。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が水を飲んでいる。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が水を飲んでいる。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が水を飲んでいる。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が水を飲んでいる。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が水を飲んでいる。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が水を飲んでいる。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が水を飲んでいる。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "水を飲む男女。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が水を飲んでいる。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が水を飲んでいる。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が休んでいる。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が休んでいる。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男性と女性が休んでいる。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が休んでいる。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が休んでいる。シャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が休んでいる。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男性と女性が休んでいる。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が休んでいる。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が休んでいる。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が休んでいる。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が休んでいる。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が休んでいる。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が休んでいる。彼女はショートパンツをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男性と女性が休んでいる。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が休んでいる。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男性と女性が休んでいる。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が踊っている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が踊っている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が踊っている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が踊っている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が踊っている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が踊っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が踊っている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が踊っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が踊っている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が踊っている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が踊っている。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が踊っている。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が踊っている。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が踊っている。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が踊っている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が踊っている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼女はショートパンツをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る男女。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る男女。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る男女。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る男女。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る男女。シャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る男女。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る男女。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る男女。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男性と女性が写真を撮っている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る男女。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る男女。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る男女。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る男女。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る男女。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男性と女性が写真を撮っている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る男女。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歌っている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歌っている。ジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歌っている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歌っている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歌っている。シャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歌っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歌っている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歌っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歌っている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歌っている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歌っている。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歌っている。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歌っている。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歌っている。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歌っている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歌っている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がサイクリングをしている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "サイクリング中の男女。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "サイクリング中の男女。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "サイクリング中の男女。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男女がサイクリングをしている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男女がサイクリングをしている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "サイクリング中の男女。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男女がサイクリングをしている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がサイクリングをしている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "サイクリング中の男女。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男女がサイクリングをしている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "サイクリング中の男女。彼はジャンパーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がサイクリングをしている。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "サイクリング中の男女。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がサイクリングをしている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男女がサイクリングをしている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が空を見ている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が空を見ている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が空を見ている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が空を見ている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が空を見ている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が空を見ている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が空を見ている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が空を見ている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が空を見ている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が空を見ている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が空を見ている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が空を見ている。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が空を見ている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が空を見ている。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が空を見ている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が空を見ている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が音楽を聴いている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が音楽を聴いている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が音楽を聴いている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が音楽を聴いている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が音楽を聴いている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が音楽を聴いている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が音楽を聴いている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が音楽を聴いている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が音楽を聴いている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が音楽を聴いている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が音楽を聴いている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が音楽を聴いている。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が音楽を聴いている。彼女はショートパンツをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が音楽を聴いている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が音楽を聴いている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が音楽を聴いている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する男女。ジーンズ姿。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する男女。ジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する男女。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する男女。Tシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する男女。シャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する男女。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する男女。カーディガンを羽織っている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する男女。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する男女。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する男女。ブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する男女。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する男女。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する男女。短パンを履いている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する男女。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する男女。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する男女。スーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が窓の外を見ている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が窓の外を見ている。ジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が窓の外を見ている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が窓の外を見ている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が窓の外を見ている。シャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が窓の外を見ている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が窓の外を見ている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が窓の外を見ている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が窓の外を見ている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が窓の外を見ている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が窓の外を見ている。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が窓の外を見ている。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が窓の外を見ている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が窓から外を見ている。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が窓の外を見ている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が窓の外を見ている。スーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼女はショートパンツをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。シャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼女はショートパンツをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がエレベーターを待っている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "エレベーターを待つ男女。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "エレベーターを待つ男女。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "エレベーターを待つ男女。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "エレベーターを待つ男女。シャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男性と女性がエレベーターを待っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男性と女性がエレベーターを待っている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男性と女性がエレベーターを待っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男性と女性がエレベーターを待っている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男性と女性がエレベーターを待っている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男性と女性がエレベーターを待っている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "エレベーターを待つ男女。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男性と女性がエレベーターを待っている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "エレベーターを待つ男女。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がエレベーターを待っている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男性と女性がエレベーターを待っている。スーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "バスに乗り込む男女。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "バスに乗り込む男女。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "バスに乗り込む男女。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "バスに乗り込む男女。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "バスに乗り込む男女。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "バスに乗り込む男女。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男性と女性がバスに乗っている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "バスに乗り込む男女。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "バスに乗り込む男女。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "バスに乗り込む男女。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "バスに乗り込む男女。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "バスに乗り込む男女。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がバスに乗っている。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "バスに乗り込む男女。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がバスに乗っている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "バスに乗り込む男女。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が公園のベンチに座っている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が公園のベンチに座っている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が公園のベンチに座っている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が公園のベンチに座っている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が公園のベンチに座っている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が公園のベンチに座っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が公園のベンチに座っている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が公園のベンチに座っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が公園のベンチに座っている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が公園のベンチに座っている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が公園のベンチに座っている。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が公園のベンチに座っている。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が公園のベンチに座っている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が公園のベンチに座っている。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が公園のベンチに座っている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が公園のベンチに座っている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歩いている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歩いている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歩いている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歩いている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歩いている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歩いている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歩いている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歩いている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歩いている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歩いている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歩いている。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歩いている。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歩いている。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が歩いている。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歩いている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歩いている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が話している。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が話している。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が話している。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が話している。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が話している。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が話している。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が話している。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が話している。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が話している。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が話している。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が話している。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が話している。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が話している。彼女はショートパンツをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が話している。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が話している。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が話している。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がランチをしている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が食事をしている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が食事をしている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がランチをしている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が食事をしている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が食事をしている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が食事をしている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がランチをしている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が食事をしている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が食事をしている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がランチをしている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が食事をしている。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がランチをしている。彼はショートパンツをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がランチをしている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が食事をしている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が食事をしている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が本を読んでいる。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が本を読んでいる。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が本を読んでいる。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が本を読んでいる。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が本を読んでいる。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が本を読んでいる。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が本を読んでいる。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が本を読んでいる。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が本を読んでいる。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が本を読んでいる。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が本を読んでいる。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が本を読んでいる。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が本を読んでいる。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が本を読んでいる。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が本を読んでいる。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が本を読んでいる。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がスポーツをしている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がスポーツをしている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "スポーツをする少年少女。ニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がスポーツをしている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がスポーツをしている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がスポーツをしている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がスポーツをしている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がスポーツをしている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がスポーツをしている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がスポーツをしている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がスポーツをしている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がスポーツをしている。彼はジャンパーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がスポーツをしている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "スポーツをする少年と少女。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がスポーツをしている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がスポーツをしている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がゲームをしている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がゲームをしている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が遊んでいる。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がゲームをしている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がゲームをしている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がゲームをしている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が遊んでいる。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がゲームをしている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がゲームをしている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がゲームをしている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がゲームをしている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がゲームをしている。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がゲームをしている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がゲームをしている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がゲームをしている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がゲームをしている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が勉強している。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が勉強している。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が勉強している。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が勉強している。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が勉強している。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が勉強している。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が勉強している。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が勉強している。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が勉強している。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が勉強している。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が勉強している。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が勉強している。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が勉強している。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が勉強している。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が勉強している。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が勉強している。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が散歩をしている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歩いている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が散歩をしている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が散歩をしている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歩いている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歩いている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歩いている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歩いている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が散歩をしている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歩いている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が散歩をしている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が散歩をしている。彼はジャンパーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歩いている。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が散歩に出かけている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が散歩をしている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歩いている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が水を飲んでいる。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が水を飲んでいる。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が水を飲んでいる。ニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が水を飲んでいる。Tシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が水を飲んでいる。シャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が水を飲んでいる。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が水を飲んでいる。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が水を飲んでいる。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が水を飲んでいる。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が水を飲んでいる。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が水を飲んでいる。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が水を飲んでいる。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が水を飲んでいる。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が水を飲んでいる。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が水を飲んでいる。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が水を飲んでいる。スーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が休んでいる。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が休んでいる。ジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が休んでいる。ニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が休んでいる。Tシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が休んでいる。シャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が休んでいる。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が休んでいる。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が休んでいる。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が休んでいる。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が休んでいる。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が休んでいる。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が休んでいる。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が休んでいる。短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が休んでいる。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が休んでいる。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が休んでいる。スーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が踊っている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が踊っている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が踊っている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が踊っている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が踊っている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が踊っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が踊っている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が踊っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が踊っている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が踊っている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が踊っている。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が踊っている。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が踊っている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が踊っている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が踊っている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が踊っている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が映画を見ている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が映画を見ている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が映画を見ている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が映画を見ている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が映画を見ている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が映画を見ている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が映画を見ている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が映画を見ている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が映画を見ている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が映画を見ている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が映画を見ている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が映画を見ている。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が映画を見ている。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が映画を見ている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が映画を見ている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が映画を見ている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が写真を撮っている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が写真を撮っている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る少年と少女。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が写真を撮っている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が写真を撮っている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る少年と少女。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る少年と少女。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る少年と少女。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が写真を撮っている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が写真を撮っている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が写真を撮っている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が写真を撮っている。彼はジャンパーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が写真を撮っている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る少年と少女。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が写真を撮っている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が写真を撮っている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歌っている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が歌っている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歌っている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が歌っている。Tシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が歌っている。シャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が歌っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歌っている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が歌っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歌っている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歌っている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歌っている。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が歌っている。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歌っている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が歌っている。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歌っている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が歌っている。スーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が絵を描いている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が絵を描いている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が絵を描いている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が絵を描いている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が絵を描いている。シャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が絵を描いている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が絵を描いている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が絵を描いている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が絵を描いている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が絵を描いている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が絵を描いている。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が絵を描いている。男の子はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が絵を描いている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が絵を描いている。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が絵を描いている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が絵を描いている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が自転車に乗っている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が自転車に乗っている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がサイクリングをしている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が自転車に乗っている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が自転車に乗っている。シャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が自転車に乗っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が自転車に乗っている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が自転車に乗っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が自転車に乗っている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が自転車に乗っている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が自転車に乗っている。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が自転車に乗っている。彼はジャンパーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がサイクリングをしている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が自転車に乗っている。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が自転車に乗っている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が自転車に乗っている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が空を見ている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が空を見ている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が空を見ている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が空を見ている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が空を見ている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が空を見ている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が空を見ている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が空を見ている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が空を見ている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が空を見ている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が空を見ている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が空を見ている。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が空を見ている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が空を見ている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が空を見ている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が空を見ている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が音楽を聴いている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が音楽を聴いている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が音楽を聴いている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が音楽を聴いている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が音楽を聴いている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が音楽を聴いている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が音楽を聴いている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が音楽を聴いている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が音楽を聴いている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が音楽を聴いている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が音楽を聴いている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が音楽を聴いている。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が音楽を聴いている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が音楽を聴いている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が音楽を聴いている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が音楽を聴いている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する少年と少女。ジーンズを履いている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する少年と少女。ジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する少年と少女。ニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する少年と少女。Tシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する少年と少女。シャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が楽器を演奏している。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する少年と少女。カーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が楽器を演奏している。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する少年と少女。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が楽器を演奏している。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する少年と少女。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が楽器を演奏している。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する少年と少女。短パンを履いている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する少年と少女。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する少年と少女。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する少年と少女。スーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が窓を眺めている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が窓を眺めている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が窓を見ている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が窓を眺めている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が窓を眺めている。シャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が窓を眺めている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が窓を眺めている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が窓を眺めている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が窓を見ている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が窓を見ている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が窓を見ている。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が窓を見ている。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が窓を見ている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が窓を眺めている。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が窓を見ている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が窓を眺めている。スーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がテレビを見ている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がテレビを見ている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がテレビを見ている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がテレビを見ている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がテレビを見ている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がテレビを見ている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がテレビを見ている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がテレビを見ている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がテレビを見ている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がテレビを見ている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がテレビを見ている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がテレビを見ている。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がテレビを見ている。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女がテレビを見ている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がテレビを見ている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がテレビを見ている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が電話で話している。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が電話で話している。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が電話で話している。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が電話で話している。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が電話で話している。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が電話で話している。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が電話で話している。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が電話で話している。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が電話で話している。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が電話で話している。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が電話で話している。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が電話で話している。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が電話で話している。彼女はショートパンツをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女が電話で話している。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が電話で話している。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が電話で話している。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女がエレベーターを待っている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女がエレベーターを待っている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がエレベーターを待っている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女がリフトを待っている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女がエレベーターを待っている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女がエレベーターを待っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がエレベーターを待っている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女がエレベーターを待っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がエレベーターを待っている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がエレベーターを待っている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がエレベーターを待っている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女がエレベーターを待っている。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女がリフトを待っている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女がエレベーターを待っている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がエレベーターを待っている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少年と少女がエレベーターを待っている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がバスに乗っている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がバスに乗っている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がバスに乗っている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がバスに乗っている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がバスに乗っている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がバスに乗っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がバスに乗っている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がバスに乗っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がバスに乗っている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がバスに乗っている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がバスに乗っている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がバスに乗っている。彼はジャンパーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がバスに乗っている。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がバスに乗っている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がバスに乗っている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子がバスに乗っている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が公園に座っている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が公園に座っている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が公園に座っている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が公園に座っている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が公園に座っている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が公園に座っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が公園に座っている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が公園に座っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が公園に座っている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が公園に座っている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が公園に座っている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が公園に座っている。彼はジャンパーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が公園に座っている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が公園に座っている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が公園に座っている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男の子と女の子が公園に座っている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歩いている。彼女はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歩いている。彼女はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歩いている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歩いている。彼女はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歩いている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歩いている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歩いている。彼女はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歩いている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歩いている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歩いている。ブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歩いている。彼女はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歩いている。彼女はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歩いている。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歩いている。彼女はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歩いている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歩いている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が話している。彼女はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が話している。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が話している。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が話している。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が話している。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が話している。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が話している。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が話している。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が話している。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が話している。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が話している。彼女はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が話している。彼女はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が話している。彼女はショートパンツをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が話している。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が話している。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が話している。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼女はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がランチをしている。彼女はショートパンツをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が食事をしている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "ある男性と女性が食事をしている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が本を読んでいる。彼女はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が本を読んでいる。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が本を読んでいる。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が本を読んでいる。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が本を読んでいる。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が本を読んでいる。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が本を読んでいる。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が本を読んでいる。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が本を読んでいる。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が本を読んでいる。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が本を読んでいる。彼女はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が本を読んでいる。彼女はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が本を読んでいる。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が本を読んでいる。彼女はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が本を読んでいる。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が本を読んでいる。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性がスポーツをしている。彼女はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性がスポーツをしている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "スポーツをしている女性と男性。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性がスポーツをしている。彼女はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性がスポーツをしている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性がスポーツをしている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "スポーツをしている男女。彼女はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性がスポーツをしている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性がスポーツをしている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性がスポーツをしている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性がスポーツをしている。彼女はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性がスポーツをしている。彼女はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性がスポーツをしている。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "スポーツをしている女性と男性。彼女はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性がスポーツをしている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性がスポーツをしている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼女はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性がゲームをしている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性がゲームをしている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性がゲームをしている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性がゲームをしている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性がゲームをしている。彼女はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女と男がゲームをしている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がゲームをしている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。彼女はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "勉強中の男女。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男女が勉強している。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が勉強している。彼女はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。彼女はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。彼女はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。彼女はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が勉強している。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歩いている。彼女はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼女はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。シャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歩いている。彼女はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼女はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼女はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼女はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歩いている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が歩いている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が水を飲んでいる。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が水を飲んでいる。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が水を飲んでいる。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が水を飲んでいる。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が水を飲んでいる。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が水を飲んでいる。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が水を飲んでいる。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が水を飲んでいる。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が水を飲んでいる。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が水を飲んでいる。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が水を飲んでいる。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が水を飲んでいる。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が水を飲んでいる。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が水を飲んでいる。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が水を飲んでいる。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が水を飲んでいる。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が休んでいる。彼女はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が休んでいる。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男性と女性が休んでいる。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が休んでいる。彼女はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が休んでいる。シャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が休んでいる。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が休んでいる。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が休んでいる。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が休んでいる。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が休んでいる。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が休んでいる。彼女はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が休んでいる。彼女はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が休んでいる。彼女はショートパンツをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が休んでいる。彼女はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が休んでいる。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男性と女性が休んでいる。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が踊っている。彼女はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が踊っている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が踊っている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が踊っている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が踊っている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が踊っている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が踊っている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が踊っている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が踊っている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が踊っている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が踊っている。彼女はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が踊っている。彼女はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が踊っている。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が踊っている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が踊っている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が踊っている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼女はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼女はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼女はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼女はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼女はショートパンツをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が映画を見ている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が映画を見ている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る女性と男性。彼女はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る女性と男性。彼女はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る女性と男性。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る女性と男性。彼女はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る女性と男性。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る女性と男性。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る女性と男性。彼女はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る女性と男性。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が写真を撮っている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が写真を撮っている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が写真を撮っている。彼女はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る女性と男性。彼女はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る女性と男性。彼女はショートパンツをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る女性と男性。彼女はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が写真を撮っている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る女性と男性。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歌っている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歌っている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歌っている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歌っている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歌っている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女と男が歌っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歌っている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女と男が歌っている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歌っている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歌っている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歌っている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歌っている。彼女はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歌っている。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歌っている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女と男が歌っている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が歌っている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼女はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼女はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼女はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼女はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼女はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼女はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が絵を描いている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "サイクリング中の女性と男性。彼女はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "サイクリング中の女性と男性。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "サイクリング中の女性と男性。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "サイクリング中の女性と男性。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "サイクリング中の女性と男性。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "サイクリング中の女性と男性。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "サイクリング中の女性と男性。彼女はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "サイクリング中の女性と男性。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "サイクリング中の女性と男性。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "サイクリング中の女性と男性。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "サイクリング中の女性と男性。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "サイクリング中の女性と男性。彼女はジャンパーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "サイクリング中の女性と男性。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "サイクリング中の女性と男性。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "サイクリング中の女性と男性。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "サイクリング中の女性と男性。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が空を見ている。彼女はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が空を見ている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が空を見ている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が空を見ている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が空を見ている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が空を見ている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女と男が空を見ている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が空を見ている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が空を見ている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が空を見ている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が空を見ている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が空を見ている。彼女はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が空を見ている。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "空を見ている女性と男性。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女と男が空を見ている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が空を見ている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が音楽を聴いている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が音楽を聴いている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が音楽を聴いている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が音楽を聴いている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が音楽を聴いている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が音楽を聴いている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が音楽を聴いている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が音楽を聴いている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が音楽を聴いている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が音楽を聴いている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が音楽を聴いている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が音楽を聴いている。彼女はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が音楽を聴いている。彼女はショートパンツをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が音楽を聴いている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が音楽を聴いている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が音楽を聴いている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する女性と男性。ジーンズ姿。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する女性と男性。ジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する男女。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する女性と男性。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する女性と男性。シャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する女性と男性。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する男女。カーディガンを羽織っている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する女性と男性。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する男女。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する女性と男性。ブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する女性と男性。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する女性と男性。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する男女。短パンを履いている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する男女。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する男女。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する男女。スーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "窓の外を眺める女性と男性。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "窓の外を眺める女性と男性。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "窓から外を眺める女性と男性。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "窓の外を眺める女性と男性。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が窓の外を見ている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "窓から外を眺める女性と男性。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "窓の外を眺める女性と男性。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "窓から外を眺める女性と男性。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性が窓の外を見ている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "窓から外を眺める女性と男性。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "窓から外を眺める女性と男性。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "窓から外を眺める女性と男性。彼女はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "窓から外を眺める女性と男性。彼女はショートパンツをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "窓から外を眺める女性と男性。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "窓から外を眺める女性と男性。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "窓から外を眺める女性と男性。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼女はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼女はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼女はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼女はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼女はショートパンツをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がテレビを見ている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼女はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼女はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼女はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼女はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼女はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼女はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼女はショートパンツをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼女はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女が電話で話している。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "エレベーターを待つ女性と男性。彼女はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "エレベーターを待つ女性と男性。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "エレベーターを待つ女性と男性。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "エレベーターを待つ女性と男性。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "エレベーターを待つ女性と男性。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "エレベーターを待つ女性と男性。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "エレベーターを待つ女性と男性。彼女はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "エレベーターを待つ女性と男性。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "エレベーターを待つ女性と男性。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "エレベーターを待つ女性と男性。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性がエレベーターを待っている。彼女はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "エレベーターを待つ女性と男性。彼女はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "エレベーターを待つ女性と男性。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "エレベーターを待つ女性と男性。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性がエレベーターを待っている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "エレベーターを待つ女性と男性。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がバスに乗っている。彼女はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がバスに乗っている。彼女はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "バスに乗り込む男女。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "バスに乗り込む女性と男性。彼女はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "バスに乗り込む女性と男性。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がバスに乗っている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "バスに乗り込む女性と男性。彼女はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がバスに乗っている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女性と男性がバスに乗っている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "バスに乗り込む男女。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "バスに乗り込む男女。彼女はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "バスに乗り込む女性と男性。彼女はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "男と女がバスに乗っている。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "バスに乗り込む男と女。彼女はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "バスに乗り込む女性と男性。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "バスに乗り込む男女。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "公園のベンチに座っている女性と男性。彼女はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "公園のベンチに座る女性と男性。彼女はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "公園のベンチに座る女性と男性。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "公園のベンチに座る女性と男性。彼女はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "公園のベンチに座る女性と男性。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "公園のベンチに座る女性と男性。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "公園のベンチに座る女性と男性。彼女はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "公園のベンチに座る女性と男性。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "公園のベンチに座る女性と男性。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "公園のベンチに座る女性と男性。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "公園のベンチに座る女性と男性。彼女はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "公園のベンチに座る女性と男性。彼女はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "公園のベンチに座る女性と男性。彼女はショートパンツをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "公園のベンチに座る女性と男性。彼女はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "公園のベンチに座る女性と男性。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "公園のベンチに座る女性と男性。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が歩いている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が歩いている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が歩いている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が歩いている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が歩いている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が歩いている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が歩いている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が歩いている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が歩いている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が歩いている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が歩いている。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が歩いている。彼はジャンパーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が歩いている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が歩いている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が歩いている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が歩いている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が話している。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が話している。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が話している。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が話している。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が話している。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が話している。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が話している。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が話している。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が話している。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が話している。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が話している。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が話している。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が話している。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が話している。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が話している。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が話している。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がランチをしている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が食事をしている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が食事をしている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がランチをしている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が食事をしている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が食事をしている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が食事をしている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がランチをしている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が食事をしている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が食事をしている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がランチをしている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が食事をしている。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がランチをしている。彼はショートパンツをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がランチをしている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がランチをしている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が食事をしている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が本を読んでいる。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が本を読んでいる。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が本を読んでいる。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が本を読んでいる。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が本を読んでいる。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が本を読んでいる。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が本を読んでいる。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が本を読んでいる。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が本を読んでいる。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が本を読んでいる。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が本を読んでいる。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が本を読んでいる。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が本を読んでいる。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が本を読んでいる。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が本を読んでいる。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が本を読んでいる。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がスポーツをしている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がスポーツをしている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "スポーツをしている女の子と男の子。彼はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がスポーツをしている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がスポーツをしている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がスポーツをしている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がスポーツをしている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がスポーツをしている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がスポーツをしている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がスポーツをしている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がスポーツをしている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がスポーツをしている。彼はジャンパーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がスポーツをしている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "スポーツをする少女と少年。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がスポーツをしている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "スポーツをしている女の子と男の子。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がゲームをしている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がゲームをしている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が遊んでいる。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がゲームをしている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がゲームをしている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がゲームをしている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が遊んでいる。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がゲームをしている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がゲームをしている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がゲームをしている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がゲームをしている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がゲームをしている。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がゲームをしている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がゲームをしている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がゲームをしている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がゲームをしている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が勉強している。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が勉強している。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が勉強している。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が勉強している。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が勉強している。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が勉強している。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が勉強している。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が勉強している。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が勉強している。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が勉強している。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が勉強している。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が勉強している。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が勉強している。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が勉強している。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が勉強している。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が勉強している。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が散歩をしている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が歩いている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が散歩をしている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が散歩をしている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が散歩をしている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が歩いている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が歩いている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が散歩をしている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が散歩をしている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が歩いている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が散歩をしている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が散歩をしている。彼はジャンパーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が散歩に出かけている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が散歩に出かけている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が散歩をしている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が散歩をしている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が水を飲んでいる。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が水を飲んでいる。ジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が水を飲んでいる。ニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が水を飲んでいる。Tシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が水を飲んでいる。シャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が水を飲んでいる。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が水を飲んでいる。カーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が水を飲んでいる。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が水を飲んでいる。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が水を飲んでいる。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が水を飲んでいる。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が水を飲んでいる。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が水を飲んでいる。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が水を飲んでいる。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が水を飲んでいる。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が水を飲んでいる。スーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が休んでいる。ジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が休んでいる。ジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が休んでいる。ニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が休んでいる。Tシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が休んでいる。シャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が休んでいる。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が休んでいる。カーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が休んでいる。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が休んでいる。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が休んでいる。ブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が休んでいる。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が休んでいる。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が休んでいる。短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が休んでいる。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が休んでいる。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が休んでいる。スーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が踊っている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が踊っている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が踊っている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が踊っている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が踊っている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が踊っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が踊っている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が踊っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が踊っている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が踊っている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が踊っている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が踊っている。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が踊っている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が踊っている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が踊っている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が踊っている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が映画を見ている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が映画を見ている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が映画を見ている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が映画を見ている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が映画を見ている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が映画を見ている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が映画を見ている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が映画を見ている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が映画を見ている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が映画を見ている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が映画を見ている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が映画を見ている。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が映画を見ている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が映画を見ている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が映画を見ている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が映画を見ている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る女の子と男の子。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る少女と少年。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る女の子と男の子。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る女の子と男の子。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る少女と少年。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る少女と少年。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る女の子と男の子。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る少女と少年。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が写真を撮っている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が写真を撮っている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が写真を撮っている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る女の子と男の子。彼はジャンパーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が写真を撮っている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る少女と少年。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が写真を撮っている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "写真を撮る女の子と男の子。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が歌っている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が歌っている。ジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が歌っている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が歌っている。Tシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が歌っている。シャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が歌っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が歌っている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が歌っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が歌っている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が歌っている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が歌っている。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が歌っている。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が歌っている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が歌っている。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が歌っている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が歌っている。スーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が絵を描いている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が絵を描いている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が絵を描いている。彼はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が絵を描いている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が絵を描いている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が絵を描いている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が絵を描いている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が絵を描いている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が絵を描いている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が絵を描いている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が絵を描いている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が絵を描いている。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が絵を描いている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が絵を描いている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が絵を描いている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が絵を描いている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が自転車に乗っている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が自転車に乗っている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がサイクリングをしている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が自転車に乗っている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が自転車に乗っている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が自転車に乗っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が自転車に乗っている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が自転車に乗っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が自転車に乗っている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が自転車に乗っている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が自転車に乗っている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が自転車に乗っている。彼はジャンパーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がサイクリングをしている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "自転車に乗る女の子と男の子。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が自転車に乗っている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が自転車に乗っている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が空を見ている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が空を見ている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が空を見ている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が空を見ている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が空を見ている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が空を見ている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が空を見ている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が空を見ている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が空を見ている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が空を見ている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が空を見ている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が空を見ている。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が空を見ている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が空を見ている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が空を見ている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が空を見ている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が音楽を聴いている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が音楽を聴いている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が音楽を聴いている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が音楽を聴いている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が音楽を聴いている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が音楽を聴いている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が音楽を聴いている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が音楽を聴いている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が音楽を聴いている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が音楽を聴いている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が音楽を聴いている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が音楽を聴いている。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が音楽を聴いている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が音楽を聴いている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が音楽を聴いている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が音楽を聴いている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する女の子と男の子。ジーンズを履いている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する少女と少年。ジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する少女と少年。ニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する少女と少年。Tシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が楽器を演奏している。シャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が楽器を演奏している。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が楽器を演奏している。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が楽器を演奏している。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が楽器を演奏している。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が楽器を演奏している。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が楽器を演奏している。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が楽器を演奏している。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する少女と少年。短パンを履いている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する少女と少年。パーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が楽器を演奏している。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "楽器を演奏する少女と少年。スーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が窓を見ている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が窓を見ている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が窓を見ている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が窓を見ている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が窓を見ている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が窓を見ている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が窓を見ている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が窓を見ている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が窓を見ている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が窓を見ている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が窓を見ている。ズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が窓を見ている。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が窓を見ている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が窓を見ている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が窓を見ている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が窓を見ている。スーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がテレビを見ている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がテレビを見ている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がテレビを見ている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がテレビを見ている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がテレビを見ている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がテレビを見ている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がテレビを見ている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がテレビを見ている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がテレビを見ている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がテレビを見ている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がテレビを見ている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がテレビを見ている。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がテレビを見ている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年がテレビを見ている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がテレビを見ている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がテレビを見ている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が電話で話している。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が電話で話している。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が電話で話している。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が電話で話している。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が電話で話している。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が電話で話している。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が電話で話している。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が電話で話している。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が電話で話している。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が電話で話している。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が電話で話している。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が電話で話している。彼はセーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が電話で話している。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年が電話で話している。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が電話で話している。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が電話で話している。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年がエレベーターを待っている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年がエレベーターを待っている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年がエレベーターを待っている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年がリフトを待っている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年がリフトを待っている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年がリフトを待っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年がエレベーターを待っている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年がリフトを待っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年がエレベーターを待っている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年がエレベーターを待っている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年がエレベーターを待っている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年がリフトを待っている。セーターを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年がリフトを待っている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "リフトを待つ少女と少年。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がエレベーターを待っている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "少女と少年がエレベーターを待っている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がバスに乗っている。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がバスに乗っている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がバスに乗っている。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がバスに乗っている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がバスに乗っている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がバスに乗っている。彼はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がバスに乗っている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がバスに乗っている。彼女はコートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がバスに乗っている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がバスに乗っている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がバスに乗っている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がバスに乗っている。彼女はジャンパーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がバスに乗っている。彼女は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がバスに乗っている。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がバスに乗っている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子がバスに乗っている。彼はスーツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "公園で座っている女の子と男の子。彼はジーンズをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が公園に座っている。彼はジャケットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "公園で座っている女の子と男の子。彼女はニットを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が公園に座っている。彼はTシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が公園に座っている。彼はシャツを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が公園に座っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が公園に座っている。彼はカーディガンを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が公園に座っている。コートを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が公園に座っている。彼女はドレスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が公園に座っている。彼女はブラウスを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が公園に座っている。彼はズボンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が公園に座っている。彼女はジャンパーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が公園に座っている。彼は短パンをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "公園で座っている女の子と男の子。彼はパーカーを着ている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が公園に座っている。彼女はスカートをはいている。",
+        "language": "ja"
+    },
+    {
+        "sentence": "女の子と男の子が公園に座っている。彼はスーツを着ている。",
+        "language": "ja"
+    }
+]
